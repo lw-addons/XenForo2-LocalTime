@@ -1,0 +1,9 @@
+{
+    "template": "message_macros",
+    "description": "",
+    "execution_order": 10,
+    "enabled": true,
+    "action": "str_replace",
+    "find": "<div class=\"message-userExtras\">\n\t\t\t\t<xf:contentcheck>",
+    "replace": "$0\n\t\t\t\t\t<dl class=\"pairs pairs--justified\">\n\t\t\t\t\t\t<dt>{{ phrase('liamw_localtime_localtime') }}</dt>\n\t\t\t\t\t\t<dd><abbr title=\"{$user.localtime.offset}\">{$user.localtime.time}</abbr></dd>\n\t\t\t\t\t</dl>"
+}

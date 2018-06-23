@@ -1,0 +1,32 @@
+{
+    "liamw_localtime_localtime.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "d25bc49e0b9afafa0b655f0ec768b157"
+    },
+    "liamw_localtime_today.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "1dd1c5fb7f25cd41b291d43a89e3aefd"
+    },
+    "liamw_localtime_tomorrow.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "ff9eb8bd8c927da073cea632f294e23b"
+    },
+    "liamw_localtime_x_plusminus_y.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "8f281a83167baad6705b73bbc0f3c85b"
+    },
+    "liamw_localtime_yesterday.txt": {
+        "global_cache": false,
+        "version_id": 1000010,
+        "version_string": "1.0.0 Alpha",
+        "hash": "ebfe9ce86e6e9fb953aa7a25b59c1956"
+    }
+}
